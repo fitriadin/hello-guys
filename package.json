@@ -1,0 +1,19 @@
+{
+	"name": "hello-guys",
+	"version": "1.0.0",
+	"description": "just simple project hello guys",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fitriadin/hello-guys.git"
+	},
+	"author": "adefi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/fitriadin/hello-guys/issues"
+	},
+	"homepage": "https://github.com/fitriadin/hello-guys#readme"
+}
